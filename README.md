@@ -135,6 +135,9 @@ The Sprint Backlog is a list of tasks to be completed during the sprint. During 
 ![image](https://user-images.githubusercontent.com/57412626/217060178-48390126-f8fe-40c6-bc72-a285af4aef74.png)
 
 In the days prior, the Product Owners must make sure that all of the items that are a part of the backlog are considered to be discussed in the meeting complete the team’s criteria of being ready.
+
+<img width="683" alt="image" src="https://user-images.githubusercontent.com/57412626/217062814-7964bc5e-d273-4551-bb31-a6a2eb8f8543.png">
+
 These items include bugs, new features, stakeholder feedback and optimizations of all kinds. 
 This means that all of these items are properly identified, test cases have been written and all the descriptions have been set. 
 This prep work is necessary because if the PO tends to all of this during the meeting, it will be less efficient and very time-consuming for all of the attendees.
@@ -157,15 +160,17 @@ The following steps happen during the Sprint Planning Meeting:
 2. Any new information that can impact the plan is discussed
 3. The team is reminded of the ultimate goal that they need to achieve
 4. Present the velocity to be used for this release
-All the known issues and concerns are confirmed
-The definition of DONE is reviewed and the appropriate updates are made based on the technology and skill
-Present proposed product backlog items to consider for the sprint backlog
-Needs of the team are determined, they are signed up to work and the work owed is estimated
-Get back to work
-Confirm any new issues and concerns raised during meeting and record
-Confirm any assumptions or dependencies discovered during planning and record
-ScrumMaster calls for a group consensus on the plan
-Product Owner answers clarifying questions and elaborates acceptance criteria
+5.  All the known issues and concerns are confirmed
+6.  The definition of DONE is reviewed and the appropriate updates are made based on the technology and skill
+7.  Present proposed product backlog items to consider for the sprint backlog
+8.  Needs of the team are determined, they are signed up to work and the work owed is estimated
+9.  Get back to work
+10.  Confirm any new issues and concerns raised during meeting and record
+11.  Confirm any assumptions or dependencies discovered during planning and record
+12.  ScrumMaster calls for a group consensus on the plan
+13.  Product Owner answers clarifying questions and elaborates acceptance criteria
+
+
 
 
 
