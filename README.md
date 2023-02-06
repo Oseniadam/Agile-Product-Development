@@ -166,6 +166,17 @@ The following steps happen during the Sprint Planning Meeting:
 12.  ScrumMaster calls for a group consensus on the plan
 13.  Product Owner answers clarifying questions and elaborates acceptance criteria
 
+# Sprint Retrospective
+The Sprint Retrospective happens at the end of each sprint and is an opportunity to review progress and make improvement. 
+The team look at the last sprint went in terms of 'individuals, interactions, processes, tools and the Definition of Done' (scrum.org). 
+<img width="603" alt="image" src="https://user-images.githubusercontent.com/57412626/217064469-54d0500b-f079-432a-8101-1801a8540abf.png">
+
+Sprint Retrospective approaches This template uses a typical approach called 'starfish' which organises the meeting into things we will:
+
+1. Start doing stop doing keep doing do more of do less of 
+2.  Another approach is 'FLAP', which stands for Future Considerations, Lessons, Accomplishments, and Problems. 
+3.  Also What went well? What didn't go so well? What will we do next? What questions do we have?
+
 
 
 
