@@ -45,7 +45,7 @@ Project details and document control Provide information on the project and docu
 
 **Responsible**:  The person who is responsible for sending the the communication. This might not be the person who writes the document or message, but they will be accountable for making sure that it goes out.
 
-## Daily Scrum
+# Daily Scrum
 The Stand-up is a daily meeting for the team to briefly review progress, talk about any blockers, and share their plans for the day. 
 Usually the team stand up during the meeting, which encourages everyone to 'keep it short'. 
 
@@ -82,7 +82,7 @@ This template is easily edited to suit your project.
 
 [burndown-chart-template.xlsx](https://github.com/Oseniadam/Agile-SAFE-5/files/10637439/burndown-chart-template.xlsx)
 
-##  Deployment Plan 
+#  Deployment Plan 
 Deployment Plan is a detailed list of the tasks that need to be done for the project to be deployed/go live. 
 It includes start and finish dates, and may even be show the time, when a task needs to be completed. The plan should include the technical tasks, like networking --- security --- software install --- and business tasks like new processes --- org structures.
 
