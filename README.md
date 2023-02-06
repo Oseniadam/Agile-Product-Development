@@ -96,8 +96,6 @@ This template is easily edited to suit your project.
 
 ![image](https://user-images.githubusercontent.com/57412626/217059954-f4a5e12d-f857-455b-9c17-86004fe05e89.png)
 
-![image](https://user-images.githubusercontent.com/57412626/217057433-7398ea1c-48d8-45df-8505-04b4ae25da3a.png)
-
 Deployment Plan is a detailed list of the tasks that need to be done for the project to be deployed/go live. 
 It includes start and finish dates, and may even be show the time, when a task needs to be completed. The plan should include the technical tasks, like networking --- security --- software install --- and business tasks like new processes --- org structures.
 
