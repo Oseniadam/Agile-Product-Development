@@ -1,7 +1,7 @@
 # Agile
 
 # Project details and document control 
-##  Project Name and Reference Project Manager Document Date Version number   
+###  Project Name, Ref: Project Manager, Document Date, Version number.  
 **Goal**: The number of features/story points that you plan to achieve in each time period.  
 ![image](https://user-images.githubusercontent.com/57412626/217059000-de828405-2c3c-4dc2-9603-32395d0126e4.png)
 
