@@ -88,6 +88,32 @@ It includes start and finish dates, and may even be show the time, when a task n
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/57412626/217007543-54989882-f3d6-4da1-a527-16deabfd8b0b.png">
 
+# Product Backlog Template 
+The Product Backlog is a list of all the potential features that will be completed during the project. 
+It is prioritized by business value and is maintained and updated throughout the project. 
+It is the single source of work for the project team, and is used to plan the work to be done in each iteration. 
+The backlog is created from the product roadmap. 
+As the project progresses the features are refined (broken down) in more detail. 
+Because the Product Backlog needs to be refined and updated often an Excel spreadsheet is an ideal format.
+
+The contents of the Product Backlog Template 
+Field Field Description and guidance completion   Project details and document control 
+Provide information on the project and document: Project Name and Reference Project Manager Document Date Version number   
+
+# User Story ID 
+**The unique reference for the User Story.  
+User Story**: The User Story. They are typically written in the format “As a [persona], I [want to], [so that].”  
+
+**Estimate (size)**:  It could be story points, Fibonacci scale or T-shirt sizes - small, medium, large.  
+
+**Priority**:  Enter the priority of the User Story. For example, a number scale, high, medium, low or star rating.  
+
+**Sprint**: The sprint that you plan to build the user story in.  
+
+**Task owner**: An optional field for the person responsible for the completion of the User Story.  
+
+**Estimate effort**: An optional field for the estimate of effort in hours or days.
+
 
 
 
