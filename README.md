@@ -67,7 +67,6 @@ When the communication will be sent. This might be a date for one-off communicat
 ## Responsible 
 The person who is responsible for sending the the communication. This might not be the person who writes the document or message, but they will be accountable for making sure that it goes out.
 
-
 ## Daily Scrum Template
 The Stand-up is a daily meeting for the team to briefly review progress, talk about any blockers, and share their plans for the day. 
 Usually the team stand up during the meeting, which encourages everyone to 'keep it short'. 
@@ -80,6 +79,20 @@ Usually the team stand up during the meeting, which encourages everyone to 'keep
 5.  The Scrum master also makes sure that the meeting keeps to time and that only the core team speak. 
 6.  Daily Scrum makes it an efficient and effective way to remove obstacles, speed up decisions and improve communications.
 
+##  Task 
+Describe in a much detail as possible the tasks that need to be completed to go live/launch.  
 
+##  Start and finish date & time Deployment plans
+Start and finish date & time Deployment plans list step by step what needs to be done to complete go live. 
+Because it is a detailed plan start and finish dates and times are included.  
+
+##  Owner 
+Name the person ultimately responsble for the completion of the task. 
+If needed you could include contact details.  
+
+##  Status 
+This is a free text field for the status of each task. 
+You can use whatever statuses you like, 
+For example, Open, in progress, completed.  
 
 
