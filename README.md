@@ -136,6 +136,11 @@ This means that all of these items are properly identified, test cases have been
 This prep work is necessary because if the PO tends to all of this during the meeting, it will be less efficient and very time-consuming for all of the attendees.
 
 # Measurement of User Stories**:  
+A User Story is a concise, simple description of product feature written from the point of view of the person who will use it.
+They have a simple format: As a [type of user/customer], I need to [do some task], so that I can [get some result].
+
+<img width="651" alt="image" src="https://user-images.githubusercontent.com/57412626/217065106-be778c09-988e-4089-8bd8-f2ee2efeb046.png">
+
 The Product Owner needs to ensure that every story to be discussed in the meeting is of equal size, and not too long or too little. The team will have a better understanding of performing this task when they would have worked together for a while.
 
 # The Team’s Commitment has to be properly Examined
