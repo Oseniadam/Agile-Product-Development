@@ -108,20 +108,6 @@ The contents of the Product Backlog Template
 Field Field Description and guidance completion   Project details and document control 
 Provide information on the project and document: Project Name and Reference Project Manager Document Date Version number   
 
-# User Story ID 
-**The unique reference for the User Story.  
-User Story**: The User Story. They are typically written in the format “As a [persona], I [want to], [so that].”  
-
-**Estimate (size)**:  It could be story points, Fibonacci scale or T-shirt sizes - small, medium, large.  
-
-**Priority**:  Enter the priority of the User Story. For example, a number scale, high, medium, low or star rating.  
-
-**Sprint**: The sprint that you plan to build the user story in.  
-
-**Task owner**: An optional field for the person responsible for the completion of the User Story.  
-
-**Estimate effort**: An optional field for the estimate of effort in hours or days.
-
 # Sprint Backlog 
 The Sprint Backlog is a list of tasks to be completed during the sprint. During the Sprint Planning meeting, the team choose some User Stories from the Product Backlog, and break down the tasks needed to deliver them. The effort required for each task is estimated and across the sprint. stakeholdermap.com During the sprint the backlog is is updated daily, usually during the Daily Scrum meeting. Tasks may be removed or added as the sprint progresses. To ensure buy-in it is important that the core team complete and own the sprint backlog.
 
@@ -141,7 +127,20 @@ They have a simple format: As a [type of user/customer], I need to [do some task
 
 <img width="651" alt="image" src="https://user-images.githubusercontent.com/57412626/217065106-be778c09-988e-4089-8bd8-f2ee2efeb046.png">
 
+# User Story ID 
+**The unique reference for the User Story.  
 The Product Owner needs to ensure that every story to be discussed in the meeting is of equal size, and not too long or too little. The team will have a better understanding of performing this task when they would have worked together for a while.
+User Story**: The User Story. They are typically written in the format “As a [persona], I [want to], [so that].”  
+
+**Estimate (size)**:  It could be story points, Fibonacci scale or T-shirt sizes - small, medium, large.  
+
+**Priority**:  Enter the priority of the User Story. For example, a number scale, high, medium, low or star rating.  
+
+**Sprint**: The sprint that you plan to build the user story in.  
+
+**Task owner**: An optional field for the person responsible for the completion of the User Story.  
+
+**Estimate effort**: An optional field for the estimate of effort in hours or days.
 
 # Team’s Commitment
 ![image](https://user-images.githubusercontent.com/57412626/217061290-39eedad7-b07f-4121-b557-b433198b2f0d.png)
