@@ -79,27 +79,19 @@ Usually the team stand up during the meeting, which encourages everyone to 'keep
 5.  The Scrum master also makes sure that the meeting keeps to time and that only the core team speak. 
 6.  Daily Scrum makes it an efficient and effective way to remove obstacles, speed up decisions and improve communications.
 
-##  Task 
-Describe in a much detail as possible the tasks that need to be completed to go live/launch.  
+**Task**:  Describe in a much detail as possible the tasks that need to be completed to go live/launch.  
 
-##  Start and finish date & time Deployment plans
-Start and finish date & time Deployment plans list step by step what needs to be done to complete go live. 
-Because it is a detailed plan start and finish dates and times are included.  
+**Start and finish date & time Deployment plans**:  Start and finish date & time Deployment plans list step by step what needs to be done to complete go live. Because it is a detailed plan start and finish dates and times are included.  
 
-##  Owner 
-Name the person ultimately responsble for the completion of the task. 
+**Owner**:   Name the person ultimately responsble for the completion of the task. 
 If needed you could include contact details.  
 
-##  Status 
-This is a free text field for the status of each task. 
-You can use whatever statuses you like, 
+**Status**: This is a free text field for the status of each task. 
 For example, Open, in progress, completed.  
 
-##  Deployment Plan
+**Deployment Plan**  
 Deployment Plan is a detailed list of the tasks that need to be done for the project to be deployed/go live. 
-It includes start and finish dates, and may even be show the time, when a task needs to be completed. 
-The plan should include the technical tasks, like 
-networking --- security --- software install --- and business tasks like new processes --- org structures.
+It includes start and finish dates, and may even be show the time, when a task needs to be completed. The plan should include the technical tasks, like networking --- security --- software install --- and business tasks like new processes --- org structures.
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/57412626/217007543-54989882-f3d6-4da1-a527-16deabfd8b0b.png">
 
