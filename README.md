@@ -101,8 +101,10 @@ It includes start and finish dates, and may even be show the time, when a task n
 The plan should include the technical tasks, like 
 networking --- security --- software install --- and business tasks like new processes --- org structures.
 
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/57412626/217007543-54989882-f3d6-4da1-a527-16deabfd8b0b.png">
 
-![image](https://user-images.githubusercontent.com/57412626/217007064-c6439c3d-d077-4616-9488-ce866a228350.png)
+
+
 
 
 
