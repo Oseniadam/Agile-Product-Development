@@ -1,24 +1,10 @@
 # Agile
 
-# Burndown Chart
-
-A Burndown Chart is a graph which shows the work left to do against time. 
-It is used in agile project management as a simple indicator of when the work will be completed. 
-Typically the work is shown on the y axis and the time on the x axis.
-There are lots of variations of the Burndown Chart. 
-For example, the work can be expressed in various ways, it could be, features, story points, or effort. 
-Time might be the releases, sprints or iterations. 
-
-This template is easily edited to suit your project.
-![image](https://user-images.githubusercontent.com/57412626/216874239-23fedbae-b038-4956-97f5-ffbdfabafd83.png)
-
-[burndown-chart-template.xlsx](https://github.com/Oseniadam/Agile-SAFE-5/files/10637439/burndown-chart-template.xlsx)
-
 # Project details and document control 
 ##  Provide information on the project and document: 
 Project Name and Reference Project Manager Document Date Version number   
 
-##  Days 
+**Days** 
 The timescale that appears at the bottom of the Burndown Chart (on the x axis). This can be changed for each project, for example it might be iterations or sprints.  
 
 ##  Goal 
@@ -38,6 +24,19 @@ It forms the blue line showing the actual burndown rate.
 Communication is key to project success. 
 The communication plan sets out what, when and how you will communicate with your project stakeholders.
 ![image](https://user-images.githubusercontent.com/57412626/216880611-39d88c5c-1f01-456b-a7b5-30017bb29d0f.png)
+
+# Burndown Chart
+A Burndown Chart is a graph which shows the work left to do against time. 
+It is used in agile project management as a simple indicator of when the work will be completed. 
+Typically the work is shown on the y axis and the time on the x axis.
+There are lots of variations of the Burndown Chart. 
+For example, the work can be expressed in various ways, it could be, features, story points, or effort. 
+Time might be the releases, sprints or iterations. 
+
+This template is easily edited to suit your project.
+![image](https://user-images.githubusercontent.com/57412626/216874239-23fedbae-b038-4956-97f5-ffbdfabafd83.png)
+
+[burndown-chart-template.xlsx](https://github.com/Oseniadam/Agile-SAFE-5/files/10637439/burndown-chart-template.xlsx)
 
 Project details and document control Provide information on the project and document: 
 -----Ref Project Name
