@@ -95,4 +95,14 @@ This is a free text field for the status of each task.
 You can use whatever statuses you like, 
 For example, Open, in progress, completed.  
 
+##  Deployment Plan
+Deployment Plan is a detailed list of the tasks that need to be done for the project to be deployed/go live. 
+It includes start and finish dates, and may even be show the time, when a task needs to be completed. 
+The plan should include the technical tasks, like 
+networking --- security --- software install --- and business tasks like new processes --- org structures.
+
+
+![image](https://user-images.githubusercontent.com/57412626/217007064-c6439c3d-d077-4616-9488-ce866a228350.png)
+
+
 
