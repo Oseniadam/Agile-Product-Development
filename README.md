@@ -135,7 +135,7 @@ These items include bugs, new features, stakeholder feedback and optimizations o
 This means that all of these items are properly identified, test cases have been written and all the descriptions have been set. 
 This prep work is necessary because if the PO tends to all of this during the meeting, it will be less efficient and very time-consuming for all of the attendees.
 
-# Measurement of User Stories**:  
+# User Stories 
 A User Story is a concise, simple description of product feature written from the point of view of the person who will use it.
 They have a simple format: As a [type of user/customer], I need to [do some task], so that I can [get some result].
 
@@ -143,15 +143,15 @@ They have a simple format: As a [type of user/customer], I need to [do some task
 
 The Product Owner needs to ensure that every story to be discussed in the meeting is of equal size, and not too long or too little. The team will have a better understanding of performing this task when they would have worked together for a while.
 
-# The Team’s Commitment has to be properly Examined
+# Team’s Commitment
 ![image](https://user-images.githubusercontent.com/57412626/217061290-39eedad7-b07f-4121-b557-b433198b2f0d.png)
 
 If you are hosting a sprint planning meeting or just a normal one, an important thing that you have to keep an eye on is everyone’s availability. Is anyone on holiday or are there any company holidays coming? Confirm everyone’s availability on a day and confirm that day for the meeting.
 
-# Plan your Sprint Accordingly with the Team’s Schedule
+# Plan Sprint to Team’s Schedule
 Sometimes, the resources or the team members are busy elsewhere and they can’t fully commit to providing their services during the sprint. You should gather this information and take it into consideration before you plan the sprint.
 
-# What are the steps involved in the Sprint Planning Meeting?
+# Sprint Planning Meeting?
 The following steps happen during the Sprint Planning Meeting:
 
 1. Team Capacity is confirmed
