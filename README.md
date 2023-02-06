@@ -44,29 +44,21 @@ Project details and document control Provide information on the project and docu
 -----Ref Document Date 
 -----Ref Version number   
 
-## What 
-What document, report or update will be sent.  
+**What**:  What document, report or update will be sent.  
 
-## Objective 
-Explain the purpose of the communication. 
-For example --- progress update --- approval/sign-off ---- quality assurance ---- business buy-in.  
+**Objective**:  Explain the purpose of the communication. For example --- progress update --- approval/sign-off ---- quality assurance ---- business buy-in.  
 
-## Who 
-The person who will receive the communication.  
+**Who**:  The person who will receive the communication.  
 
-## How 
-How the communication will be delivered. For example, via a meeting, email, demonstration, hard-copy report.  
+**How**:  How the communication will be delivered. For example, via a meeting, email, demonstration, hard-copy report.  
 
-## Media 
-The format of the communication, for example, web-page, knowledge article on intranet, Word doc, PowerPoint, print out.  
+**Media**:  The format of the communication, for example, web-page, knowledge article on intranet, Word doc, PowerPoint, print out.  
 
-## When 
-When the communication will be sent. This might be a date for one-off communication or the frequency of regular comms, like weekly progress reports.  
+**When**: When the communication will be sent. This might be a date for one-off communication or the frequency of regular comms, like weekly progress reports.  
 
-## Responsible 
-The person who is responsible for sending the the communication. This might not be the person who writes the document or message, but they will be accountable for making sure that it goes out.
+**Responsible**:  The person who is responsible for sending the the communication. This might not be the person who writes the document or message, but they will be accountable for making sure that it goes out.
 
-## Daily Scrum Template
+## Daily Scrum
 The Stand-up is a daily meeting for the team to briefly review progress, talk about any blockers, and share their plans for the day. 
 Usually the team stand up during the meeting, which encourages everyone to 'keep it short'. 
 
@@ -90,7 +82,7 @@ If needed you could include contact details.
 **Status**: This is a free text field for the status of each task. 
 For example, Open, in progress, completed.  
 
-**Deployment Plan**  
+##  Deployment Plan 
 Deployment Plan is a detailed list of the tasks that need to be done for the project to be deployed/go live. 
 It includes start and finish dates, and may even be show the time, when a task needs to be completed. The plan should include the technical tasks, like networking --- security --- software install --- and business tasks like new processes --- org structures.
 
