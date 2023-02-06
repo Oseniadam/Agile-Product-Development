@@ -71,6 +71,8 @@ The person who is responsible for sending the the communication. This might not 
 The Stand-up is a daily meeting for the team to briefly review progress, talk about any blockers, and share their plans for the day. 
 Usually the team stand up during the meeting, which encourages everyone to 'keep it short'. 
 
+<img width="522" alt="image" src="https://user-images.githubusercontent.com/57412626/217010209-82ea5adf-da77-4ec9-8c3a-4a0e63f39e1c.png">
+
 ##   Rules of the Daily Scrum 
 1.  It must start on time. Anyone can join, but only the core team speak. 
 2.  The meeting lasts 15 minutes max. 
@@ -79,17 +81,17 @@ Usually the team stand up during the meeting, which encourages everyone to 'keep
 5.  The Scrum master also makes sure that the meeting keeps to time and that only the core team speak. 
 6.  Daily Scrum makes it an efficient and effective way to remove obstacles, speed up decisions and improve communications.
 
-1 ---**Task**:  Describe in a much detail as possible the tasks that need to be completed to go live/launch.  
+**Task**:  Describe in a much detail as possible the tasks that need to be completed to go live/launch.  
 
-2 ---**Start and finish date & time Deployment plans**:  Start and finish date & time Deployment plans list step by step what needs to be done to complete go live. Because it is a detailed plan start and finish dates and times are included.  
+**Start and finish date & time Deployment plans**:  Start and finish date & time Deployment plans list step by step what needs to be done to complete go live. Because it is a detailed plan start and finish dates and times are included.  
 
-3 ---**Owner**:   Name the person ultimately responsble for the completion of the task. 
+**Owner**:   Name the person ultimately responsble for the completion of the task. 
 If needed you could include contact details.  
 
-4 ---**Status**: This is a free text field for the status of each task. 
+**Status**: This is a free text field for the status of each task. 
 For example, Open, in progress, completed.  
 
-5 ---**Deployment Plan**  
+**Deployment Plan**  
 Deployment Plan is a detailed list of the tasks that need to be done for the project to be deployed/go live. 
 It includes start and finish dates, and may even be show the time, when a task needs to be completed. The plan should include the technical tasks, like networking --- security --- software install --- and business tasks like new processes --- org structures.
 
