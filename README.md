@@ -3,21 +3,35 @@
 # Project details and document control 
 ##  Provide information on the project and document: 
 Project Name and Reference Project Manager Document Date Version number   
+**Goal**: The number of features/story points that you plan to achieve in each time period.  
+![image](https://user-images.githubusercontent.com/57412626/217059000-de828405-2c3c-4dc2-9603-32395d0126e4.png)
 
-**Days** 
-The timescale that appears at the bottom of the Burndown Chart (on the x axis). This can be changed for each project, for example it might be iterations or sprints.  
 
-##  Goal 
-The number of features/story points that you plan to achieve in each time period.  
+**Why a Sprint Planning Meeting is necessary?**
 
-##  Done 
-This is a record of how many features/story points that you actually achieve.  
+To gather all of the team in one place and let everyone know what their role is, in the upcoming sprint.
+This will make your team more confident because there will be no confusion in role management and prioritization of tasks. 
+A good team is one that knows what their exact roles are. 
 
-##  Goal velocity 
-This is a calculated field that counts down the target points to zero (completion of the project). It forms the left side of the chart (the y axis).  
+![image](https://user-images.githubusercontent.com/57412626/217059824-4654704a-ea13-4f52-aaee-6e87237a540b.png)
 
-##  Remaining 
-This is a calculated field that simply deducts 'Done' from 'Remaining'. 
+Other benefits that a team gets from a sprint planning session are:
+Promotes Just In Time planning
+Task estimation
+Task discovery
+A common understanding of the product
+Task sign Up
+Task prioritization
+Collaboration and team building
+Knowledge and skill set improvement
+Different perspectives
+
+
+**Done**: This is a record of how many features/story points that you actually achieve.  
+
+**Goal velocity**:  This is a calculated field that counts down the target points to zero (completion of the project). It forms the left side of the chart (the y axis).  
+
+**Remaining**:  This is a calculated field that simply deducts 'Done' from 'Remaining'. 
 It forms the blue line showing the actual burndown rate.
 
 # Agile Communication Plan
@@ -44,6 +58,10 @@ Project details and document control Provide information on the project and docu
 **When**: When the communication will be sent. This might be a date for one-off communication or the frequency of regular comms, like weekly progress reports.  
 
 **Responsible**:  The person who is responsible for sending the the communication. This might not be the person who writes the document or message, but they will be accountable for making sure that it goes out.
+
+
+
+
 
 # Daily Scrum
 The Stand-up is a daily meeting for the team to briefly review progress, talk about any blockers, and share their plans for the day. 
@@ -83,18 +101,27 @@ This template is easily edited to suit your project.
 [burndown-chart-template.xlsx](https://github.com/Oseniadam/Agile-SAFE-5/files/10637439/burndown-chart-template.xlsx)
 
 #  Deployment Plan 
+
+![image](https://user-images.githubusercontent.com/57412626/217059954-f4a5e12d-f857-455b-9c17-86004fe05e89.png)
+
+![image](https://user-images.githubusercontent.com/57412626/217057433-7398ea1c-48d8-45df-8505-04b4ae25da3a.png)
+
 Deployment Plan is a detailed list of the tasks that need to be done for the project to be deployed/go live. 
 It includes start and finish dates, and may even be show the time, when a task needs to be completed. The plan should include the technical tasks, like networking --- security --- software install --- and business tasks like new processes --- org structures.
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/57412626/217007543-54989882-f3d6-4da1-a527-16deabfd8b0b.png">
 
-# Product Backlog Template 
+# Product Backlog
 The Product Backlog is a list of all the potential features that will be completed during the project. 
 It is prioritized by business value and is maintained and updated throughout the project. 
 It is the single source of work for the project team, and is used to plan the work to be done in each iteration. 
 The backlog is created from the product roadmap. 
 As the project progresses the features are refined (broken down) in more detail. 
 Because the Product Backlog needs to be refined and updated often an Excel spreadsheet is an ideal format.
+
+
+<img width="463" alt="image" src="https://user-images.githubusercontent.com/57412626/217048017-43fa6e98-024e-478a-8abb-6aa92d81992d.png">
+
 
 The contents of the Product Backlog Template 
 Field Field Description and guidance completion   Project details and document control 
@@ -114,8 +141,43 @@ User Story**: The User Story. They are typically written in the format “As a [
 
 **Estimate effort**: An optional field for the estimate of effort in hours or days.
 
+# Sprint Backlog 
+The Sprint Backlog is a list of tasks to be completed during the sprint. During the Sprint Planning meeting, the team choose some User Stories from the Product Backlog, and break down the tasks needed to deliver them. The effort required for each task is estimated and across the sprint. stakeholdermap.com During the sprint the backlog is is updated daily, usually during the Daily Scrum meeting. Tasks may be removed or added as the sprint progresses. To ensure buy-in it is important that the core team complete and own the sprint backlog.
 
+![image](https://user-images.githubusercontent.com/57412626/217060178-48390126-f8fe-40c6-bc72-a285af4aef74.png)
 
+In the days prior, the Product Owners must make sure that all of the items that are a part of the backlog are considered to be discussed in the meeting complete the team’s criteria of being ready.
+These items include bugs, new features, stakeholder feedback and optimizations of all kinds. 
+This means that all of these items are properly identified, test cases have been written and all the descriptions have been set. 
+This prep work is necessary because if the PO tends to all of this during the meeting, it will be less efficient and very time-consuming for all of the attendees.
+
+# Measurement of User Stories**:  
+The Product Owner needs to ensure that every story to be discussed in the meeting is of equal size, and not too long or too little. The team will have a better understanding of performing this task when they would have worked together for a while.
+
+# The Team’s Commitment has to be properly Examined
+![image](https://user-images.githubusercontent.com/57412626/217061290-39eedad7-b07f-4121-b557-b433198b2f0d.png)
+
+If you are hosting a sprint planning meeting or just a normal one, an important thing that you have to keep an eye on is everyone’s availability. Is anyone on holiday or are there any company holidays coming? Confirm everyone’s availability on a day and confirm that day for the meeting.
+
+# Plan your Sprint Accordingly with the Team’s Schedule
+Sometimes, the resources or the team members are busy elsewhere and they can’t fully commit to providing their services during the sprint. You should gather this information and take it into consideration before you plan the sprint.
+
+# What are the steps involved in the Sprint Planning Meeting?
+The following steps happen during the Sprint Planning Meeting:
+
+1. Team Capacity is confirmed
+2. Any new information that can impact the plan is discussed
+3. The team is reminded of the ultimate goal that they need to achieve
+4. Present the velocity to be used for this release
+All the known issues and concerns are confirmed
+The definition of DONE is reviewed and the appropriate updates are made based on the technology and skill
+Present proposed product backlog items to consider for the sprint backlog
+Needs of the team are determined, they are signed up to work and the work owed is estimated
+Get back to work
+Confirm any new issues and concerns raised during meeting and record
+Confirm any assumptions or dependencies discovered during planning and record
+ScrumMaster calls for a group consensus on the plan
+Product Owner answers clarifying questions and elaborates acceptance criteria
 
 
 
