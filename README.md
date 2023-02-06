@@ -1,11 +1,9 @@
 # Agile
 
 # Project details and document control 
-##  Provide information on the project and document: 
-Project Name and Reference Project Manager Document Date Version number   
+##  Project Name and Reference Project Manager Document Date Version number   
 **Goal**: The number of features/story points that you plan to achieve in each time period.  
 ![image](https://user-images.githubusercontent.com/57412626/217059000-de828405-2c3c-4dc2-9603-32395d0126e4.png)
-
 
 **Why a Sprint Planning Meeting is necessary?**
 
@@ -25,7 +23,6 @@ Task prioritization
 Collaboration and team building
 Knowledge and skill set improvement
 Different perspectives
-
 
 **Done**: This is a record of how many features/story points that you actually achieve.  
 
@@ -58,10 +55,6 @@ Project details and document control Provide information on the project and docu
 **When**: When the communication will be sent. This might be a date for one-off communication or the frequency of regular comms, like weekly progress reports.  
 
 **Responsible**:  The person who is responsible for sending the the communication. This might not be the person who writes the document or message, but they will be accountable for making sure that it goes out.
-
-
-
-
 
 # Daily Scrum
 The Stand-up is a daily meeting for the team to briefly review progress, talk about any blockers, and share their plans for the day. 
@@ -119,9 +112,7 @@ The backlog is created from the product roadmap.
 As the project progresses the features are refined (broken down) in more detail. 
 Because the Product Backlog needs to be refined and updated often an Excel spreadsheet is an ideal format.
 
-
 <img width="463" alt="image" src="https://user-images.githubusercontent.com/57412626/217048017-43fa6e98-024e-478a-8abb-6aa92d81992d.png">
-
 
 The contents of the Product Backlog Template 
 Field Field Description and guidance completion   Project details and document control 
