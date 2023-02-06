@@ -68,15 +68,11 @@ Usually the team stand up during the meeting, which encourages everyone to 'keep
 4.  The Scrum master ensures that the Scrum happens, but the development team (or core team) run it. 
 5.  The Scrum master also makes sure that the meeting keeps to time and that only the core team speak. 
 6.  Daily Scrum makes it an efficient and effective way to remove obstacles, speed up decisions and improve communications.
-
-**Task**:  Describe in a much detail as possible the tasks that need to be completed to go live/launch.  
-
-**Start and finish date & time Deployment plans**:  Start and finish date & time Deployment plans list step by step what needs to be done to complete go live. Because it is a detailed plan start and finish dates and times are included.  
-
-**Owner**:   Name the person ultimately responsble for the completion of the task. 
+7.  **Task**:  Describe in a much detail as possible the tasks that need to be completed to go live/launch.  
+8.  **Start and finish date & time Deployment plans**:  Start and finish date & time Deployment plans list step by step what needs to be done to complete go live. Because it is a detailed plan start and finish dates and times are included.  
+9.   **Owner**:   Name the person ultimately responsble for the completion of the task. 
 If needed you could include contact details.  
-
-**Status**: This is a free text field for the status of each task. 
+10.  **Status**: This is a free text field for the status of each task. 
 For example, Open, in progress, completed.  
 
 # Burndown Chart
